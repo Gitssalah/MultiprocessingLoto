@@ -13,6 +13,7 @@
 
 <h3>Strengths</h3>
 <ol>
+  <li>Multiprocessing programming </li>
   <li>Signal handling.</li>
   <li>Sending information using pipes 'fifo1'.</li>
   <li>Handling Linux commands and system calls.</li>
